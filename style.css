@@ -1,0 +1,14 @@
+  /*  height= altura          width=anchura        */
+img {
+    width: 800px;
+}
+
+body {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: lightseagreen;
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+}
